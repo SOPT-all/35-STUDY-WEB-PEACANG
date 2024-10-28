@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: Quiz-contensts
     attributes:
-      label: 문제 출제
+      label: 문제
       description: 출제할 문제에 대해 적어주세요.
       placeholder: 문제를 적어주세요.
     validations:
