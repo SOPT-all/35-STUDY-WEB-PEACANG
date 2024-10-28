@@ -7,27 +7,14 @@ assignees: ''
 
 ---
 
-name: '기능 추가'
-description: 기능 추가 Issue 작성 양식입니다.
-title: '[feat] '
-body:
-  - type: markdown
-    attributes:
-      value: |
-        작성 예시 : "[feat] 카드 컴포넌트 만들기"
-  - type: textarea
-    id: bug-description
-    attributes:
-      label: 작업 요약
-      description: 어떠한 기능을 추가하시는 건지 적어주세요.
-      placeholder: 설명을 적어주세요.
-    validations:
-      required: true
-  - type: textarea
-    id: reproduction
-    attributes:
-      label: TO DO
-      description: 고려하신 방법이나, 접근에 대해서 설명해주세요.
-      placeholder: 설명을 적어주세요.
-    validations:
-      required: true
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
